@@ -70,7 +70,7 @@ function About() {
               <div id="i-data" className="">
                 <div id="head" className="flex justify-between">
                   <label htmlFor="" className="font-semibold text-lg">
-                    Uddeshya Patel
+                    Aaditya Mohan
                   </label>
                   <i class="ri-linkedin-box-fill text-xl cursor-pointer text-yellow-400 hover:text-white"></i>
                 </div>
