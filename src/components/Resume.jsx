@@ -36,7 +36,7 @@ function Resume() {
             </div>
             <div id="row-2" className="flex justify-between">
               <span className="text-xs text-gray-400">
-                Computer Science and Engineering
+                Electronics and Communication Engineering
               </span>
               <div id="date" className="text-yellow-400 text-xs font-semibold">
                 2018 - 2022
